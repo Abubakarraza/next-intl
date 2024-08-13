@@ -1,0 +1,5 @@
+{
+  "HomePage": {
+    "title": "Welcome {firstName}  {lastName} to the Home Page"
+  }
+}
